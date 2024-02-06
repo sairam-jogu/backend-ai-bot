@@ -1,0 +1,23 @@
+{
+  "name": "backend-ai-api",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@google-ai/generativelanguage": "^2.0.1",
+    "@google/generative-ai": "^0.2.0",
+    "autoprefixer": "10.4.17",
+    "google-auth-library": "^9.6.2",
+    "google-gax": "^4.3.0",
+    "next": "14.1.0",
+    "postcss": "8.4.33",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.4.1"
+  }
+}
